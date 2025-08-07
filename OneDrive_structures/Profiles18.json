@@ -980,7 +980,89 @@
                 "children": [
                     {
                         "name": "ECSConfig.json",
-                        "type": "JSON File"
+                        "type": "JSON File",
+                        "children": [
+                            {
+                                "name": "ECS",
+                                "type": "object",
+                                "children": [
+                                    {
+                                        "name": "DisableConfigLog",
+                                        "type": "boolean"
+                                    },
+                                    {
+                                        "name": "CacheExpiryInMin",
+                                        "type": "integer"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ODSP_Sync_Client",
+                                "type": "object",
+                                "children": [
+                                    {
+                                        "name": "Ramps",
+                                        "type": "object",
+                                        "children": [
+                                            {
+                                                "name": "12",
+                                                "type": "boolean"
+                                            },
+                                            {
+                                                "name": "0",
+                                                "type": "boolean"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Settings",
+                                        "type": "object",
+                                        "children": [
+                                            {
+                                                "name": "0",
+                                                "type": "string"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Headers",
+                                "type": "object",
+                                "children": [
+                                    {
+                                        "name": "ETag",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "Expires",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "CountryCode",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "StatusCode",
+                                        "type": "string"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ConfigIDs",
+                                "type": "object",
+                                "children": [
+                                    {
+                                        "name": "ECS",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "ODSP_Sync_Client",
+                                        "type": "string"
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "name": "logs",

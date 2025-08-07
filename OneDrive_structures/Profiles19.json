@@ -22192,7 +22192,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -23353,7 +23403,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -24514,7 +24614,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -25679,7 +25829,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -26866,7 +27066,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -28013,7 +28263,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -29160,7 +29460,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -30307,7 +30657,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -31504,7 +31904,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -32655,7 +33105,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -33802,7 +34302,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -35117,7 +35667,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -36410,7 +37010,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -37557,7 +38207,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -38872,7 +39572,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -40019,7 +40769,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -41334,7 +42134,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -42489,7 +43339,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -43644,7 +44544,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
@@ -44799,7 +45749,57 @@
                         "children": [
                             {
                                 "name": "<UsrSID>-ProfileServiceResponse.txt",
-                                "type": "JSON File"
+                                "type": "JSON File",
+                                "children": [
+                                    {
+                                        "name": "@odata.context",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "userPrincipalName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "id",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "displayName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "surname",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "givenName",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "preferredLanguage",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mail",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "mobilePhone",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "jobTitle",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "officeLocation",
+                                        "type": "null"
+                                    },
+                                    {
+                                        "name": "businessPhones",
+                                        "type": "array"
+                                    }
+                                ]
                             },
                             {
                                 "name": "<UsrSID>.dat",
